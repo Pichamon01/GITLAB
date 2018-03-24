@@ -5,11 +5,8 @@ void main()
   int i;
   do
   {
-<<<<<<< HEAD
     printf("What is your name? ");
-=======
-    printf("What is your nickname? ");
->>>>>>> 6c9939eecc08ed75fe00835c837e2ab967a94985
+
     scanf("%s", Name);
     do
     {
